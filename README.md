@@ -13,7 +13,7 @@ It may work on other distros, please let me know and I'll update this readme.
 
 # Instructions
 1. Download/Clone this repo
-2. Download the linux **version 1.8.1** of Chitubox from https://www.chitubox.com/download.html (**you will need to create a Chitubox account**)
+2. Download the linux **version 1.9.3** of Chitubox from https://www.chitubox.com/download.html (**you will need to create a Chitubox account**)
 3. Place the downloaded tar.gz in the same directory as the install script
 4. Run the install script (**root access will be required**). If required, add exec permission with *chmod +x*.
 Note: You may have to restart your session for the icon to be properly displayed in gnome
